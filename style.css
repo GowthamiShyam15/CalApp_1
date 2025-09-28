@@ -55,7 +55,7 @@ button{
     color:rgb(59, 178, 211);
 }
 .btn-equ{
-    background-color: yellow;
+    background-color: rgb(237, 152, 228);
 }
 button:hover{
     box-shadow: -0px -3px 15px rgb(216, 182, 220);
